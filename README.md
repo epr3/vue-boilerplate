@@ -1,4 +1,6 @@
-# vuex-patterns
+# vue-boilerplate
+
+Vue boilerplate and some vuex utils
 
 ## Project setup
 ```
